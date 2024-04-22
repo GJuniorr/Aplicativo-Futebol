@@ -1,16 +1,9 @@
-# baba
+# Futebol
 
-A new Flutter project.
+Projeto Flutter para te ajudar a organizar o seu futebol com os amigos
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Projeto Flutter que da para adicionar jogadores novos, excluir e editar. Pode colocar as estatísticas de cada um dos jogadores, gols, assistências, gols sofridos, quem pagou e quem já confirmou que vai. Todos os recursos que você precisa para administrar seu futebol com amigos.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feito com Flutter no VSCode, salvando dados com Banco de Dados MySQL

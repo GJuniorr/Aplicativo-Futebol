@@ -71,11 +71,11 @@ class _editarUserState extends State<editarUser> {
 
   Future getConnection() async {
    conn = await MySQLConnection.createConnection(
-    host: '10.0.2.2',
-    port: 3306,
-    userName: 'root',
-    password: 'kinafox223',
-    databaseName: 'baba',
+    host: '',
+    port: ,
+    userName: '',
+    password: '',
+    databaseName: '',
   );
    try {
       await conn.connect();
